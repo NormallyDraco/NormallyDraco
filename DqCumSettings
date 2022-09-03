@@ -122,4 +122,4 @@ _G.UI_lvl = "33"
 -- Discord Webhook
 _G.webhookEnabled = false
 _G.webhookLink = nil -- your webhook
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/PeanutQuest/PeanutQuestBeta/main/Release.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/NormallyDraco/NormallyDraco/main/DqCum'),true))()
